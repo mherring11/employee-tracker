@@ -25,7 +25,7 @@ connection.connect((err) => {
     )
   );
 
-  console.log(`                                                                    ` + chalk.yellow.bold("Created By: James Fisher"));
+  console.log(`                                                                    ` + chalk.yellow.bold("Created By: Michael Herring"));
 
   console.log(``);
   console.log(chalk.blue.bold(`==============================================================================================`));

@@ -59,6 +59,9 @@ So that I can organize and plan my business
 ---
 
 ## Visuals
+![image](https://user-images.githubusercontent.com/27812373/180672398-c94b4130-6de6-4362-9362-386a4fbd9a8d.png)
+![image](https://user-images.githubusercontent.com/27812373/180672408-3b6f3395-f95b-4d95-bac6-71b29a304d14.png)
+![image](https://user-images.githubusercontent.com/27812373/180672417-bd19eba7-a381-45b2-be05-c6544b39e919.png)
 
 
 ---

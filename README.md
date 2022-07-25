@@ -60,22 +60,12 @@ So that I can organize and plan my business
 
 ## Visuals
 
-![screenshot1](/media/employee-tracker-1.png)
-
----
-![screenshot2](/media/employee-tracker-2.png)
-
----
-![screenshot](/media/employee-tracker-3.png)
-
----
-![screenshot2](/media/employee-tracker-4.png)
 
 ---
 
 ## Walkthrough Video
 
-[Link to walkthrough video](https://drive.google.com/file/d/1vJN3fQkYHDl5DWrH7__TFE1T8KD0wgrA/view)
+[Link to walkthrough video] (https://drive.google.com/file/d/1LnuuZBzo6_DsvaVkwqo0gae_Yw2LzIVQ/view)
 
 
 ---

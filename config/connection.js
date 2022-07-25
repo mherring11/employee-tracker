@@ -7,7 +7,7 @@ const connection = mysql.createConnection({
   // Your username
   user: "root",
   // Your password
-  password: "password",
+  password: "Btmj06072014!",
   database: "galactic_empire_db",
 });
 
